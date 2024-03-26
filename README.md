@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/assets/logo.png" />
-</p> 
+</p>  
 
 # Just give me a copy!
 * Windows: https://www.cen64.com/uploads/stable/cen64-windows-x86_64.exe
